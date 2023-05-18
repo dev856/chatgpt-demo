@@ -20,7 +20,7 @@ async function generateTemplate(message) {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
-      'Authorization': 'Bearer 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'
+      'Authorization': 'Bearer YOUR_API_KEY'
     },
     body: JSON.stringify({
       prompt: `Generate an email template for the following message:\n\n${message}\n\n`,
