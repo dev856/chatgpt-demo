@@ -1,1 +1,1 @@
-# chatgpt-demo
+# ChatGPt-demo
